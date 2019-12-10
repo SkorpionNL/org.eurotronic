@@ -1746,21 +1746,21 @@
           "id": "unprotected",
           "title": {
             "en": "Unprotected",
-            "nl": "Onbeveiligt"
+            "nl": "Onbeveiligd"
           }
         },
         {
           "id": "unlockable",
           "title": {
             "en": "Unlockable protected",
-            "nl": "Ontgrendelbaar beveiligt"
+            "nl": "Ontgrendelbaar beveiligd"
           }
         },
         {
           "id": "protected",
           "title": {
             "en": "Protected",
-            "nl": "Beveiligt"
+            "nl": "Beveiligd"
           }
         }
       ]
